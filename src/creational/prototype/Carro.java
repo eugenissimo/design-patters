@@ -3,6 +3,7 @@ package creational.prototype;
 import java.util.Random;
 
 public abstract class Carro implements Cloneable {
+
 	public String nomeModelo;
 	public int preco;
 

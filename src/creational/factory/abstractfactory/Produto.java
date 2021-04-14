@@ -3,6 +3,7 @@ package creational.factory.abstractfactory;
 import java.math.BigDecimal;
 
 public class Produto {
+
 	private String nome;
 	private int quantidade;
 	private BigDecimal valorUnitario;
@@ -36,5 +37,4 @@ public class Produto {
 	public void setValorUnitario(BigDecimal valorUnitario) {
 		this.valorUnitario = valorUnitario;
 	}
-
 }

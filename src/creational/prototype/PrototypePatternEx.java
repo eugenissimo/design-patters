@@ -26,5 +26,4 @@ public class PrototypePatternEx {
 		System.out.println("Nome do Carro: " + carro.getNomeModelo() + "\n Preço do Carro: " + carro.preco);
 
 	}
-
 }

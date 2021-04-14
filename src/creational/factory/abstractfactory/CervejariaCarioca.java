@@ -13,5 +13,4 @@ public class CervejariaCarioca implements VendaFactory {
 		Boleto boleto = new BoletoItau();
 		return boleto;
 	}
-
 }

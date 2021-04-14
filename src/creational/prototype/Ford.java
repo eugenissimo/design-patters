@@ -1,6 +1,7 @@
 package creational.prototype;
 
 public class Ford extends Carro {
+
 	public Ford(String m) {
 		nomeModelo = m;
 	}

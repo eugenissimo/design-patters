@@ -10,5 +10,4 @@ public class NotaCarioca implements NFE {
 		imposto = imposto.multiply(produto.getValorUnitario());
 		return imposto.doubleValue();
 	}
-
 }
